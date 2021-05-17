@@ -71,6 +71,7 @@ p {
     margin-right: 25px;
 }
 #benefits {
+    color:#ffffff;
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -83,17 +84,14 @@ p {
 
 .benefit-lead {
     margin-bottom: 32px;
-    color: #ffffff;
 }
 
 .benefit-brand {
     margin-bottom: 32px;
-    color: #ffffff;
 }
 
 .benefit-cost {
     margin-bottom: 32px;
-    color: #ffffff;
 }
 
 .benefit-lead h3 {
